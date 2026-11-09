@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/anthropics/anthropic-tokenizer-typescript/commit/4d75e64d32fe5cd2b5a24d954242f9fab12e8b4b",
       "git:hexsha": "4d75e64d32fe5cd2b5a24d954242f9fab12e8b4b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
